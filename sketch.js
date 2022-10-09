@@ -9,6 +9,8 @@ function setup () {
 
     createAlpha();
 
+    console.log('oh shit');
+
 
     // test = new char('c', 100, 100);
     // test.show();
